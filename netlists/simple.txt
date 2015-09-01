@@ -1,0 +1,5 @@
+INPUT(G1)
+
+OUTPUT(G2)
+
+G2 = NOT(G1)
